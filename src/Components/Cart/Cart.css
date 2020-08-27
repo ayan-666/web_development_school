@@ -1,0 +1,13 @@
+.cart_part h3{
+    border-bottom: 2px solid black;
+}
+.upper{
+    margin-top: 50px;
+}
+.summary_head{
+    text-align: center;
+    color: black;
+}
+.item{
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.shop-container{
+    background-color: #d49a89;
+}
+.cart-container{
+    border-right: 4px dotted #301b15;
+    background-color: #F7D1BA;
+}
+.cart-container h3{
+    font-style: italic;
+}

@@ -1,0 +1,9 @@
+.course_image img{
+    width: 100%;
+    height: 150px;
+}
+.course_part{
+    border-bottom: 5px dotted #557571;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
